@@ -1,0 +1,420 @@
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.eot
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.eot?
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.svg
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.ttf
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.woff
+Content Type: application/font-woff
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-500.woff2
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.eot
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.eot?
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.svg
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.ttf
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.woff
+Content Type: application/font-woff
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-600.woff2
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.eot
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.eot?
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.svg
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.ttf
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.woff
+Content Type: application/font-woff
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot?
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular-1.eot
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.svg
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.ttf
+Content Type: binary/octet-stream
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff
+Content Type: application/font-woff
+
+Uri: https://assets-v2.super.so/global/fonts/Inter/inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\global\fonts\Inter\inter-v12-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2
+Content Type: binary/octet-stream
+
+Uri: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9104094f-c0c2-4120-acb8-4f79b17712b3/245946206_10220692902608669_2196515413325932339_n/w=3840,quality=80
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\cdn-cgi\imagedelivery\j42No7y-dcokJuNgXeA0ig\9104094f-c0c2-4120-acb8-4f79b17712b3\245946206_10220692902608669_2196515413325932339_n\w=3840,quality=80
+Content Type: image/jpeg
+
+Uri: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9104094f-c0c2-4120-acb8-4f79b17712b3/245946206_10220692902608669_2196515413325932339_n/w=640
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\cdn-cgi\imagedelivery\j42No7y-dcokJuNgXeA0ig\9104094f-c0c2-4120-acb8-4f79b17712b3\245946206_10220692902608669_2196515413325932339_n\w=640
+Content Type: image/jpeg
+
+Uri: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bf46394a-f033-4ce2-b59b-d9757f9b9910/shindig-removebg-preview/w=1080,quality=80
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\cdn-cgi\imagedelivery\j42No7y-dcokJuNgXeA0ig\bf46394a-f033-4ce2-b59b-d9757f9b9910\shindig-removebg-preview\w=1080,quality=80
+Content Type: image/png
+
+Uri: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bf46394a-f033-4ce2-b59b-d9757f9b9910/shindig-removebg-preview/w=640
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\cdn-cgi\imagedelivery\j42No7y-dcokJuNgXeA0ig\bf46394a-f033-4ce2-b59b-d9757f9b9910\shindig-removebg-preview\w=640
+Content Type: image/png
+
+Uri: https://sand-angel-shindig.super.site/
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\index.htm
+Content Type: text/html
+
+Uri: https://sand-angel-shindig.super.site/images/super-icon.svg
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\images\super-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/15622-1995e3f62347fc5e.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\15622-1995e3f62347fc5e.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/38812-be7330ce2f492833.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\38812-be7330ce2f492833.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/51257.c38d44e2f8303e23.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\51257.c38d44e2f8303e23.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/5263.e4c5b6d2b2b5d2c8.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\5263.e4c5b6d2b2b5d2c8.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/67571.54bba4a978c7c68d.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\67571.54bba4a978c7c68d.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/89683-e311ac369cd95ca7.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\89683-e311ac369cd95ca7.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/framework-1aa899be9db520d4.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\framework-1aa899be9db520d4.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/main-65fb59642e5a0e7d.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\main-65fb59642e5a0e7d.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/pages/index-298ac188649a57bb.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\pages\index-298ac188649a57bb.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/pages/_app-45bd596fe0d09beb.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\pages\_app-45bd596fe0d09beb.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/chunks/webpack-f064a688c7dd000a.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\chunks\webpack-f064a688c7dd000a.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/css/fdeca1181300c036.css
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\css\fdeca1181300c036.css
+Content Type: text/css
+
+Uri: https://sand-angel-shindig.super.site/_next/static/GtxHU-xCkh9vJdcoxDhAL/_buildManifest.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\GtxHU-xCkh9vJdcoxDhAL\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/GtxHU-xCkh9vJdcoxDhAL/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\GtxHU-xCkh9vJdcoxDhAL\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_AMS-Regular.060a0b04.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_AMS-Regular.060a0b04.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_AMS-Regular.0a016397.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_AMS-Regular.0a016397.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_AMS-Regular.4c846f09.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_AMS-Regular.4c846f09.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Caligraphic-Bold.6ed924f8.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Caligraphic-Bold.6ed924f8.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Caligraphic-Bold.740cbb84.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Caligraphic-Bold.740cbb84.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Caligraphic-Bold.a6485da7.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Caligraphic-Bold.a6485da7.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Caligraphic-Regular.16987ad5.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Caligraphic-Regular.16987ad5.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Caligraphic-Regular.1a2ccb6c.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Caligraphic-Regular.1a2ccb6c.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Caligraphic-Regular.e729aeb9.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Caligraphic-Regular.e729aeb9.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Fraktur-Bold.2fe5b648.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Fraktur-Bold.2fe5b648.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Fraktur-Bold.6b0d32a7.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Fraktur-Bold.6b0d32a7.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Fraktur-Bold.901a1816.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Fraktur-Bold.901a1816.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Fraktur-Regular.246d8b4a.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Fraktur-Regular.246d8b4a.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Fraktur-Regular.40fe4181.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Fraktur-Regular.40fe4181.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Fraktur-Regular.8605aa7a.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Fraktur-Regular.8605aa7a.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Bold.957e702b.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Bold.957e702b.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Bold.a56976d6.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Bold.a56976d6.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Bold.c751d4be.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Bold.c751d4be.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-BoldItalic.31db8e4b.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-BoldItalic.31db8e4b.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-BoldItalic.798dbc97.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-BoldItalic.798dbc97.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-BoldItalic.f8e69f38.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-BoldItalic.f8e69f38.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Italic.20428960.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Italic.20428960.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Italic.57598c3d.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Italic.57598c3d.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Italic.c7a67141.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Italic.c7a67141.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Regular.379e6ba9.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Regular.379e6ba9.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Regular.58adac92.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Regular.58adac92.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Main-Regular.c1643840.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Main-Regular.c1643840.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Math-BoldItalic.1a622360.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Math-BoldItalic.1a622360.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Math-BoldItalic.661398ad.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Math-BoldItalic.661398ad.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Math-BoldItalic.8ab58b1e.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Math-BoldItalic.8ab58b1e.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Math-Italic.1beebf16.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Math-Italic.1beebf16.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Math-Italic.b6067654.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Math-Italic.b6067654.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Math-Italic.ccc4681a.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Math-Italic.ccc4681a.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Bold.42447086.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Bold.42447086.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Bold.6ba9eb79.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Bold.6ba9eb79.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Bold.7cb357e7.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Bold.7cb357e7.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Italic.44c6e0ef.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Italic.44c6e0ef.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Italic.c9bb6f78.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Italic.c9bb6f78.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Italic.d2e42d7c.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Italic.d2e42d7c.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Regular.36713787.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Regular.36713787.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Regular.924519de.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Regular.924519de.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_SansSerif-Regular.a7d37c91.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_SansSerif-Regular.a7d37c91.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Script-Regular.292b42be.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Script-Regular.292b42be.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Script-Regular.89351b4f.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Script-Regular.89351b4f.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Script-Regular.d3ee6ab8.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Script-Regular.d3ee6ab8.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size1-Regular.17c5001e.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size1-Regular.17c5001e.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size1-Regular.493fb7a3.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size1-Regular.493fb7a3.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size1-Regular.5c123e9b.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size1-Regular.5c123e9b.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size2-Regular.a0b7415e.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size2-Regular.a0b7415e.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size2-Regular.e75c06dd.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size2-Regular.e75c06dd.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size2-Regular.e7f2c2bb.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size2-Regular.e7f2c2bb.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size3-Regular.5adc6ec4.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size3-Regular.5adc6ec4.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size3-Regular.8465ccab.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size3-Regular.8465ccab.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size3-Regular.ef92d152.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size3-Regular.ef92d152.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size4-Regular.91f58a71.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size4-Regular.91f58a71.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size4-Regular.96282536.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size4-Regular.96282536.woff2
+Content Type: font/woff2
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Size4-Regular.d7589d15.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Size4-Regular.d7589d15.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Typewriter-Regular.484b3496.ttf
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Typewriter-Regular.484b3496.ttf
+Content Type: font/ttf
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Typewriter-Regular.72b0861a.woff
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Typewriter-Regular.72b0861a.woff
+Content Type: font/woff
+
+Uri: https://sand-angel-shindig.super.site/_next/static/media/KaTeX_Typewriter-Regular.809d61ae.woff2
+File Name: C:\Downloaded Web Sites\sandangel\sand-angel-shindig.super.site\_next\static\media\KaTeX_Typewriter-Regular.809d61ae.woff2
+Content Type: font/woff2
+
